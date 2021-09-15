@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on the projects for the adult entertainment.
-- 🌱 I’m currently learning software arhitecture.
+- 🌱 I’m currently learning software design & architecture.
 - 👯 I’m looking to collaborate on React projects.
 
 [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefanlazarevic)](https://github.com/stefanlazarevic/github-readme-stats)
